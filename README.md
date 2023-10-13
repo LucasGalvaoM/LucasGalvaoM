@@ -1,9 +1,4 @@
 <h1 align="center">Hi 👋, I'm Lucas</h1>
-<h3 align="center">A full-stack software engineer from Boston, MA</h3>
-
-- 🔭 I’m currently working on **100 Hour Project**
-
-- 🌱 I’m currently learning **Node.js, Express, and React**
 
 - 💬 Ask me about **JavaScript, HTML and CSS**
 
